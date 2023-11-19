@@ -41,8 +41,8 @@ export class FormPost{
                     </p>
 
                     <div class="actionBtnPost">
-                        <button type="button" class="filesPost like"><img src="img/heart.svg" alt="Curtir">Curtir</button>
-                        <button type="button" class="filesPost comment"><img src="img/comment.svg" alt="Comentar">Comentar</button>
+                        <button type="button" class="filesPost like"><img src="img/excl1.svg" alt="Curtir">Curtir</button>
+                        <button type="button" class="filesPost comment"><img src="img/deslik1.svg" alt="Comentar">Comentar</button>
                         <button type="button" class="filesPost report"><img src="img/report.svg" alt="Denunciar">Denunciar</button>
                     </div>    
                 `;
